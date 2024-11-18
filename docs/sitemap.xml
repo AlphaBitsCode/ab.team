@@ -5,21 +5,5 @@
 	<lastmod>2024-11-18</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
-	<image:image>
-	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Square%20white.png</image:loc>
-	<image:title>AlphaBitslogo   Square white</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Square%20white.webp</image:loc>
-	<image:title>AlphaBitslogo   Square white</image:title>
-	</image:image>
-	<video:video>
-	<video:content_loc>https://alphabits.team/vid/AB%20Intro%20-%20Vertical.mp4</video:content_loc>
-	<video:title>AB Intro - Vertical</video:title>
-	</video:video>
-	<video:video>
-	<video:content_loc>https://alphabits.team/vid/AB%20Intro%201200.mp4</video:content_loc>
-	<video:title>AB Intro 1200</video:title>
-	</video:video>
 </url>
 </urlset>
