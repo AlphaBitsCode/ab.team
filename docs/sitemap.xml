@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://alphabits.team</loc>
-	<lastmod>2024-11-17</lastmod>
+	<lastmod>2024-11-18</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -14,8 +14,12 @@
 	<image:title>AlphaBitslogo   Square white</image:title>
 	</image:image>
 	<video:video>
-	<video:content_loc>https://alphabits.team/vid/video-bg-small.mp4</video:content_loc>
-	<video:title>video-bg-small</video:title>
+	<video:content_loc>https://alphabits.team/vid/AB%20Intro%20-%20Vertical.mp4</video:content_loc>
+	<video:title>AB Intro - Vertical</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>https://alphabits.team/vid/AB%20Intro%201200.mp4</video:content_loc>
+	<video:title>AB Intro 1200</video:title>
 	</video:video>
 </url>
 </urlset>
