@@ -42,4 +42,26 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
+<url>
+	<loc>https://alphabits.team/shortcuts/teams/</loc>
+	<lastmod>2025-01-03</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://alphabits.team/img/AO_icon_white.png</image:loc>
+	<image:title>cms icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/AO_icon_white.webp</image:loc>
+	<image:title>cms icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/skyeye.png</image:loc>
+	<image:title>cms icon</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/skyeye.webp</image:loc>
+	<image:title>cms icon</image:title>
+	</image:image>
+</url>
 </urlset>
