@@ -6,6 +6,14 @@
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
+	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Document%20Header%20-%20white.png</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Document%20Header%20-%20white.webp</image:loc>
+	<image:title>logo</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Square%20white.png</image:loc>
 	<image:title>AlphaBitslogo   Square white</image:title>
 	</image:image>
@@ -21,64 +29,6 @@
 	<video:content_loc>https://alphabits.team/vid/AB%20Intro%201200.mp4</video:content_loc>
 	<video:title>AB Intro 1200</video:title>
 	</video:video>
-</url>
-<url>
-	<loc>https://alphabits.team/shortcuts/shortcuts/</loc>
-	<lastmod>2025-01-03</lastmod>
-	<changefreq>Weekly</changefreq>
-	<priority>0.5</priority>
-	<image:image>
-	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Document%20Header%20-%20white.png</image:loc>
-	<image:title>Alpha Bits Logo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Document%20Header%20-%20white.webp</image:loc>
-	<image:title>Alpha Bits Logo</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/email-file.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/calendar.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/knowledge.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/response.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/picture.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/workflow.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/ai-humans.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/pie-chart.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/groupchat.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/tasks.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
-	<image:image>
-	<image:loc>https://alphabits.team/img/cashier.gif</image:loc>
-	<image:title>cms icon</image:title>
-	</image:image>
 </url>
 <url>
 	<loc>https://alphabits.team/shortcuts/calendar-service/</loc>
