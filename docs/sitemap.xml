@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://alphabits.team</loc>
-	<lastmod>2025-01-05</lastmod>
+	<lastmod>2025-01-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -32,19 +32,41 @@
 </url>
 <url>
 	<loc>https://alphabits.team/shortcuts/calendar-service/</loc>
-	<lastmod>2025-01-05</lastmod>
+	<lastmod>2025-01-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://alphabits.team/shortcuts/communication-services/</loc>
-	<lastmod>2025-01-05</lastmod>
+	<lastmod>2025-01-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
-	<loc>https://alphabits.team/alpha-bits-services/</loc>
-	<lastmod>2025-01-05</lastmod>
+	<loc>https://alphabits.team/about-team/</loc>
+	<lastmod>2025-01-06</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://alphabits.team/img/alphabits_logo_trim.png</image:loc>
+	<image:title>alphabits_logo_trim</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/alphabits_logo_trim.webp</image:loc>
+	<image:title>alphabits_logo_trim</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/IMG_20241230_111300.jpg</image:loc>
+	<image:title>Kent Nguyen - Founder</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/IMG_20241230_111300.webp</image:loc>
+	<image:title>Kent Nguyen - Founder</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://alphabits.team/services/</loc>
+	<lastmod>2025-01-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
