@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://alphabits.team</loc>
-	<lastmod>2025-01-13</lastmod>
+	<lastmod>2025-01-14</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -24,19 +24,19 @@
 </url>
 <url>
 	<loc>https://alphabits.team/shortcuts/calendar-service/</loc>
-	<lastmod>2025-01-13</lastmod>
+	<lastmod>2025-01-14</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://alphabits.team/shortcuts/communication-services/</loc>
-	<lastmod>2025-01-13</lastmod>
+	<lastmod>2025-01-14</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://alphabits.team/about-team/</loc>
-	<lastmod>2025-01-13</lastmod>
+	<lastmod>2025-01-14</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -58,22 +58,22 @@
 </url>
 <url>
 	<loc>https://alphabits.team/services/</loc>
-	<lastmod>2025-01-13</lastmod>
+	<lastmod>2025-01-14</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 </url>
 <url>
 	<loc>https://alphabits.team/cto-service/</loc>
-	<lastmod>2025-01-13</lastmod>
+	<lastmod>2025-01-14</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
 	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Document%20Header.png</image:loc>
-	<image:title>alphabits_logo_trim</image:title>
+	<image:title>Alpha Bits Logo</image:title>
 	</image:image>
 	<image:image>
 	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Document%20Header.webp</image:loc>
-	<image:title>alphabits_logo_trim</image:title>
+	<image:title>Alpha Bits Logo</image:title>
 	</image:image>
 </url>
 </urlset>
