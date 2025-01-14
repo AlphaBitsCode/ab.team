@@ -68,6 +68,14 @@
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
+	<image:loc>https://alphabits.team/img/ab_ctoaas.png</image:loc>
+	<image:title>ab_ctoaas</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/ab_ctoaas.webp</image:loc>
+	<image:title>ab_ctoaas</image:title>
+	</image:image>
+	<image:image>
 	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Document%20Header.png</image:loc>
 	<image:title>Alpha Bits Logo</image:title>
 	</image:image>
