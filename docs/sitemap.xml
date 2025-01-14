@@ -75,5 +75,51 @@
 	<image:loc>https://alphabits.team/img/AlphaBitslogo%20-%20Document%20Header.webp</image:loc>
 	<image:title>Alpha Bits Logo</image:title>
 	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/ctoaas_bizteam.png</image:loc>
+	<image:title>ctoaas_bizteam</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/ctoaas_bizteam.webp</image:loc>
+	<image:title>ctoaas_bizteam</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/ctoaas_ctocio.png</image:loc>
+	<image:title>ctoaas_ctocio</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/ctoaas_ctocio.webp</image:loc>
+	<image:title>ctoaas_ctocio</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/ctoaas_techteam.png</image:loc>
+	<image:title>ctoaas_techteam</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/ctoaas_techteam.webp</image:loc>
+	<image:title>ctoaas_techteam</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/ctoaas_cadence.png</image:loc>
+	<image:title>ctoaas_cadence</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/ctoaas_cadence.webp</image:loc>
+	<image:title>ctoaas_cadence</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/Digital%20Infrastructure%20Blueprint%20-%20AB%20-%20Digital%20Infrastructure%20Blueprint%20-%20Jan%202025.jpg</image:loc>
+	<image:title>Digital Infrastructure Blueprint   AB   Digital Infrastructure Blueprint   Jan 2025</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://alphabits.team/img/Digital%20Infrastructure%20Blueprint%20-%20AB%20-%20Digital%20Infrastructure%20Blueprint%20-%20Jan%202025.webp</image:loc>
+	<image:title>Digital Infrastructure Blueprint   AB   Digital Infrastructure Blueprint   Jan 2025</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://alphabits.team/book-appointment-1/</loc>
+	<lastmod>2025-01-14</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
 </url>
 </urlset>
